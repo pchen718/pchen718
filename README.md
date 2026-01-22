@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Phebe 👋
 
-<!--
-**pchen718/pchen718** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a graduate student in Applied Mathematics with a concentration in Statistics and Data Analytics at the University of Colorado Boulder,
+focused on data science, statistical modeling, and applied analytics.
 
-Here are some ideas to get you started:
+### Interests
+- Statistical modeling & regression
+- Data analysis and visualization
+- Sports and education analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tools
+R, Python, SQL, pandas, ggplot2, scikit-learn
+
+### Selected Projects
+- Predicting Social Drivers of Pharmaceutical Wastewater Concentrations
+- Engineering Major Transitions in CEAS
+- Forecasting NHL Team Points Using Statistical Learning
+- Evaluating the Impact of Salary Caps on Competitive Balance
+
+

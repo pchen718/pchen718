@@ -1,6 +1,6 @@
 ## Hi, I'm Phebe 👋
 
-I'm a recent M.S. graduate in Applied Mathematics from the University of Colorado Boulder, with a concentration in Statistics and Data Analytics.
+I'm a recent M.S. graduate in Applied Mathematics from the University of Colorado Boulder, with a concentration in Statistics and Data Analytics. I also earned a B.A. in Applied Mathematics & Statistics and Economics from Macalester College.
 
 I’m interested in using statistical modeling, data visualization, and applied analytics to solve real-world problems, especially in education, sports, and public-interest data.
 
@@ -13,6 +13,10 @@ I’m interested in using statistical modeling, data visualization, and applied 
 
 ### Tools
 R, Python, SQL, pandas, ggplot2, scikit-learn, Excel, Tableau
+
+### Education
+- M.S. Applied Mathematics (Statistics & Data Analytics), University of Colorado Boulder
+- B.A. Applied Mathematics & Statistics and Economics, Macalester College
 
 ### Selected Projects
 - **Engineering Major Transitions in CEAS**  
